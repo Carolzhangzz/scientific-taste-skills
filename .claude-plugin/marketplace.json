@@ -1,0 +1,26 @@
+{
+  "name": "scientific-taste-agent",
+  "version": "1.0.0",
+  "description": "Evaluate and generate research ideas using Scientific Taste — distinguishing paradigm-shifting ideas from incremental variants. Works for any venue.",
+  "author": "Qinshi Zhang",
+  "license": "MIT",
+  "homepage": "https://github.com/qinshi-zhang/scientific-taste-agent",
+  "keywords": [
+    "research",
+    "scientific-taste",
+    "idea-evaluation",
+    "paper-writing",
+    "academic",
+    "UIST",
+    "CHI",
+    "NeurIPS",
+    "ICML"
+  ],
+  "skills": [
+    {
+      "name": "scientific-taste",
+      "path": "skills/scientific-taste/SKILL.md",
+      "description": "Evaluate and generate research ideas using 5 taste tests"
+    }
+  ]
+}

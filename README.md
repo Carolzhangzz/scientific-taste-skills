@@ -1,6 +1,8 @@
-# Scientific Taste Agent
+# Research IdeaScope
 
-An AI agent skill that evaluates research ideas like a senior reviewer — not by checklist scoring, but by scientific taste.
+> 95% of LLM-generated "novel" ideas are duplicates. This tool teaches AI actual taste.
+
+An AI agent skill for Claude Code that evaluates and generates research ideas like a senior reviewer — not by checklist scoring, but by scientific taste.
 
 > "The difference between a forgettable paper and a best paper is not following more rules — it's having genuine intellectual taste."
 
@@ -39,10 +41,10 @@ Integrates methodologies from 16+ papers on automated research ideation:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Carolzhangzz/scientific-taste-skills.git
+git clone https://github.com/Carolzhangzz/Research-IdeaScope.git
 
 # Copy skills to your Claude Code skills directory
-cp -r scientific-taste-skills/skills/* ~/.claude/skills/
+cp -r Research-IdeaScope/skills/* ~/.claude/skills/
 ```
 
 ### Usage
@@ -160,10 +162,10 @@ MIT — see [LICENSE.md](LICENSE.md)
 ## Citation
 
 ```bibtex
-@software{scientific_taste_skills,
-  title={Scientific Taste Agent},
+@software{research_ideascope,
+  title={Research IdeaScope},
   author={Zhang, Qinshi},
   year={2026},
-  url={https://github.com/Carolzhangzz/scientific-taste-skills}
+  url={https://github.com/Carolzhangzz/Research-IdeaScope}
 }
 ```

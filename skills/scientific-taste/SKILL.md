@@ -11,7 +11,7 @@ metadata:
   version: 2.0.0
 ---
 
-# Scientific Taste Agent
+# Research IdeaScope
 
 Evaluate and generate research ideas using Scientific Taste — not checklist scoring, but the trained intuition that separates paradigm-shifting ideas from incremental variants.
 

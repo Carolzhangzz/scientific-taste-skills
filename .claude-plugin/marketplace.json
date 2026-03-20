@@ -1,10 +1,10 @@
 {
-  "name": "scientific-taste-agent",
-  "version": "1.0.0",
-  "description": "Evaluate and generate research ideas using Scientific Taste — distinguishing paradigm-shifting ideas from incremental variants. Works for any venue.",
+  "name": "research-ideascope",
+  "version": "2.0.0",
+  "description": "Research IdeaScope — evaluate and generate research ideas using Scientific Taste. Distinguishes paradigm-shifting ideas from incremental variants. Works for any venue.",
   "author": "Qinshi Zhang",
   "license": "MIT",
-  "homepage": "https://github.com/qinshi-zhang/scientific-taste-agent",
+  "homepage": "https://github.com/Carolzhangzz/Research-IdeaScope",
   "keywords": [
     "research",
     "scientific-taste",
